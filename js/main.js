@@ -301,7 +301,7 @@ $('#switchmore').on('click', function () {
     } else {
         $('#container').attr('class', 'container');
         $("#change").html("Hello&nbsp;World&nbsp;!");
-        $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+        $("#change1").html("一名普普通通的游戏制作人，在努力的朝着梦想前进");
     }
 });
 
@@ -350,7 +350,7 @@ window.addEventListener('load', function () {
             //移动端隐藏更多页面
             $('#container').attr('class', 'container');
             $("#change").html("Hello&nbsp;World&nbsp;!");
-            $("#change1").html("一个建立于 21 世纪的小站，存活于互联网的边缘");
+            $("#change1").html("一名普普通通的游戏制作人，在努力的朝着梦想前进");
 
             //移动端隐藏弹窗页面
             $('#box').css("display", "none");
